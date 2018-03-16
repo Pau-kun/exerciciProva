@@ -20,6 +20,7 @@ public class RainMan {
 
     public void setDay(int day) {
         this.day = day;
+		whaaaaaaat?
     }
 
     public int getMonth() {
